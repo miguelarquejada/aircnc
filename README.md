@@ -2,10 +2,6 @@
     <img alt="Aircnc" title="#delicinha" src="github/logo.png" width="250px" />
 </h1>
 
-<p align="center">
-  <img alt="Frontend" src="github/aircnc.png" width="100%">
-</p>
-
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -14,6 +10,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+
+<p align="center">
+  <img alt="Frontend" src="github/aircnc.png" width="100%">
+</p>
 
 ## 💻 Projeto
 
